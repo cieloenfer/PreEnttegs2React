@@ -1,0 +1,33 @@
+ [
+    {
+      "id": "1",
+      "name": "Mediación Escolar",
+      "price": "",
+      "description": "Este es el producto número 1."
+    },
+    {
+      "id": "2",
+      "name": "Mediación Familiar",
+      "price": "",
+      "description": "Este es el producto número 2."
+    },
+   
+    {
+      "id": "1",
+      "name": "Mediación Laboral",
+      "price": "",
+      "description": "Este es el producto número 1."
+    },
+    {
+      "id": "2",
+      "name": "Asesoría Legal a Condominios y Edificios",
+      "price": "29.99",
+      "description": "Este es el producto número 2."
+    }
+    
+    
+   
+  ]
+  
+ 
+  
