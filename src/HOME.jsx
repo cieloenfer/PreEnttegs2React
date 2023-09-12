@@ -1,0 +1,14 @@
+import Navbar from "./Components/Navbar/Navbar";
+const HOME =  () => {
+
+return( 
+    <>
+     < Navbar/>
+    <h1>Home</h1>
+    </>
+       
+)    
+}
+
+export default HOME;
+
